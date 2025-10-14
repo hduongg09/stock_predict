@@ -1,10 +1,9 @@
-Stock predict
+**Stock predict**
 
-Mục tiêu:
 Dự đoán giá cổ phiếu Việt Nam dựa trên dữ liệu lịch sử
 Dùng các mô hình Machine Learning (Linear Regression, Random Forest, XGBoost, CatBoost) để học dữ liệu giá quá khứ và dự đoán giá đóng cửa cho ngày tiếp theo
 
-các bước:
+Các bước:
 - Sử dụng thư viện vnstock để tải dữ liệu giá cổ phiếu Việt Nam
 - Làm sạch dữ liệu
 - Thống kê mô tả nhanh (EDA): giá trị trung bình, độ lệch chuẩn, khoảng thời gian dữ liệu, số mã.
